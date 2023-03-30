@@ -1,0 +1,27 @@
+name: mplatform
+description: A flutter package that makes it easy to handle platform checking
+version: 0.0.2
+homepage: https://github.com/bruc3balo/mplatform
+platforms:
+  android:
+  ios:
+  macos:
+  windows:
+  linux:
+  web:
+
+environment:
+  sdk: '>=2.19.5 <3.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+
